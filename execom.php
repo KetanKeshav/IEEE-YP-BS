@@ -8,7 +8,7 @@ $active = 'execom';
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>IEEE YP Bangalore Section</title>
+    <title>2022 Execom | IEEE YP Bangalore Section</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -46,7 +46,7 @@ $active = 'execom';
         <div class="container">
 
             <div class="section-title">
-                <h2>Team</h2>
+                <h2>Execom</h2>
             </div>
 
             <div class="row">
@@ -54,7 +54,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/debdeep.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -72,7 +72,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/kishore.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -90,7 +90,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/neha.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -108,7 +108,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/samarth.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -126,7 +126,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -144,7 +144,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/ketan.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -162,7 +162,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/nagalekha.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -180,7 +180,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/mahantesh.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -198,7 +198,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/pramod.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -216,7 +216,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/sumit.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -234,7 +234,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/yeshwanth.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -252,7 +252,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -270,7 +270,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -288,7 +288,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/manjunath.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -306,7 +306,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/yashwanth.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -324,7 +324,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -342,7 +342,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/skanda.webp" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -360,7 +360,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
