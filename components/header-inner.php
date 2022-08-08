@@ -1,5 +1,5 @@
   <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center ">
+  <header id="header" class="d-flex align-items-center header-inner-pages">
       <div class="container-fluid d-flex align-items-center justify-content-lg-between">
 
           <!-- <h1 class="logo me-auto me-lg-0"><a href="index.html">Young Professionals</a></h1> -->
@@ -8,7 +8,7 @@
 
           <nav id="navbar" class="navbar order-last order-lg-0">
               <ul>
-                  <li><a class="nav-link scrollto active" href="#about">Home</a></li>
+                  <li><a class="nav-link scrollto" href="#about">Home</a></li>
                   <li class="dropdown"><a href="#"><span>Events</span> <i class="bi bi-chevron-down"></i></a>
                       <ul>
                           <li><a href="#">IEEE YPSIC</a></li>
@@ -18,7 +18,7 @@
                   </li>
                   <li><a class="nav-link scrollto" href="#">Achievements</a></li>
                   <li><a class="nav-link scrollto" href="#">Avtivities</a></li>
-                  <li><a class="nav-link scrollto" href="execom.php">Execom</a></li>
+                  <li><a class="nav-link scrollto <?php if($active==execom) echo 'active'; ?>" href="#">Execom</a></li>
               </ul>
               <i class="bi bi-list mobile-nav-toggle"></i>
           </nav><!-- .navbar -->
