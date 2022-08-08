@@ -8,7 +8,7 @@
 
           <nav id="navbar" class="navbar order-last order-lg-0">
               <ul>
-                  <li><a class="nav-link scrollto active" href="#about">Home</a></li>
+                  <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
                   <li class="dropdown"><a href="#"><span>Events</span> <i class="bi bi-chevron-down"></i></a>
                       <ul>
                           <li><a href="#">IEEE YPSIC</a></li>

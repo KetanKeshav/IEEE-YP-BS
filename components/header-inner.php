@@ -8,7 +8,7 @@
 
           <nav id="navbar" class="navbar order-last order-lg-0">
               <ul>
-                  <li><a class="nav-link scrollto" href="#about">Home</a></li>
+                  <li><a class="nav-link scrollto" href="index.php">Home</a></li>
                   <li class="dropdown"><a href="#"><span>Events</span> <i class="bi bi-chevron-down"></i></a>
                       <ul>
                           <li><a href="#">IEEE YPSIC</a></li>
@@ -18,7 +18,7 @@
                   </li>
                   <li><a class="nav-link scrollto" href="#">Achievements</a></li>
                   <li><a class="nav-link scrollto" href="#">Avtivities</a></li>
-                  <li><a class="nav-link scrollto <?php if($active==execom) echo 'active'; ?>" href="#">Execom</a></li>
+                  <li><a class="nav-link scrollto <?php if($active==execom) echo 'active'; ?>" href="execom.php">Execom</a></li>
               </ul>
               <i class="bi bi-list mobile-nav-toggle"></i>
           </nav><!-- .navbar -->
