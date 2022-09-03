@@ -118,7 +118,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Samarth Bonthala</h4>
-                            <span>Vice Chair</span>
+                            <span>Vice Chair (Term Ended: 30 June 2022)</span>
                         </div>
                     </div>
                 </div>
