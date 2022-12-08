@@ -17,9 +17,17 @@ $active = 'home';
 </head>
 
 <body>
-    <?php include 'components/hero.php'; ?>
 
     <?php include 'components/header.php'; ?>
+    
+    
+    <?php include 'components/hero.php'; ?>
+
+    
 
     <?php include 'components/about.php'; ?>
+
+    <?php include 'components/values.php'; ?>
+
+
 </body>
