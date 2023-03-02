@@ -36,7 +36,7 @@ $active = 'past-execom';
                 <li><a href="index.php">Home</a></li>
                 <li>Past Execom </li>
             </ol>
-            <h2>2021 Executive Team</h2>
+            <h2>2022 Execom</h2>
         </div>
     </section>
     <!-- End Breadcrumbs -->
@@ -45,7 +45,7 @@ $active = 'past-execom';
    
 
             <div class="section-title">
-                <h2>2021 Execom</h2>
+                <h2>2022 Execom</h2>
             </div>
             
     <!-- End Team Section -->
@@ -173,67 +173,20 @@ $active = 'past-execom';
         <td>Execom Member</td>
         <td>MIT, Manipal</td>
     </tr>
-  </tbody>
-</table>
-</div>
-    </section>
-
-<!-- 2020 EXECOM  -->
-
-    <div class="section-title">
-                <h2>2020 Execom</h2>
-            </div>
-
-    <section id="table">
-        <div class="table-responsive-sm"> 
-    <table class="table table-bordered">
-  <thead>
     <tr>
-      <th scope="col">Name</th>
-      <th scope="col">Position</th>
-      <th scope="col">About</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
         <td>Dr Ashwini Appaji Shantiniketana</td>
         <td>Immediate past chair</td>
         <td>Chair, 2020</td>
     </tr>
-
-
-</tbody>
-</table>
-</div>
-</section>
-
-<!-- 2019 EXECOM  -->
-
-<div class="section-title">
-                <h2>2019 Execom</h2>
-            </div>
-
-    <section id="table">
-        <div class="table-responsive-sm"> 
-    <table class="table table-bordered">
-  <thead>
     <tr>
-      <th scope="col">Name</th>
-      <th scope="col">Position</th>
-      <th scope="col">About</th>
-    </tr>
-  </thead>
-  <tbody> 
-  <tr>
         <td>Mr. Mallikarjuna C</td>
         <td>Past Chair</td>
         <td>Chair, 2019</td>
     </tr>
-
-</tbody>
+  </tbody>
 </table>
-        </div>
-</section>
+</div>
+    </section>
 </body>
 
 

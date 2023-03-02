@@ -8,7 +8,7 @@ $active = 'execom';
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>2022 Execom | IEEE YP Bangalore Section</title>
+    <title>2023 Execom | IEEE YP Bangalore Section</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -34,9 +34,9 @@ $active = 'execom';
         <div class="container">
             <ol>
                 <li><a href="index.php">Home</a></li>
-                <li>2022 Executive Team</li>
+                <li>2023 Executive Team</li>
             </ol>
-            <h2>2022 Executive Team</h2>
+            <h2>2023 Executive Team</h2>
         </div>
     </section>
     <!-- End Breadcrumbs -->
@@ -46,28 +46,10 @@ $active = 'execom';
         <div class="container">
 
             <div class="section-title">
-                <h2>Execom</h2>
+                <h2>Office Bearers</h2>
             </div>
 
             <div class="row">
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/debdeep.webp" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Debdeep Sarkar</h4>
-                            <span>Chair</span>
-                        </div>
-                    </div>
-                </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
@@ -82,7 +64,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Kishore Kumar Sharma</h4>
-                            <span>Chair Elect</span>
+                            <span>Chair</span>
                         </div>
                     </div>
                 </div>
@@ -100,25 +82,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Neha Kumari</h4>
-                            <span>Vice Chair</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/samarth.webp" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Samarth Bonthala</h4>
-                            <span>Vice Chair (Term Ended: 30 June 2022)</span>
+                            <span>Chair Elect</span>
                         </div>
                     </div>
                 </div>
@@ -135,8 +99,8 @@ $active = 'execom';
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>Atheeth Shivlinga Prasad</h4>
-                            <span>Secretary</span>
+                            <h4>Gajendra Deshpande</h4>
+                            <span>Vice Chair-1</span>
                         </div>
                     </div>
                 </div>
@@ -154,61 +118,43 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Ketan Keshav</h4>
+                            <span>Vice Chair - 2</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Dr Nageswara Rao Atyam</h4>
+                            <span>Secretary</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Roobini G</h4>
                             <span>Treasurer</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/nagalekha.webp" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Naglekha Ramesh</h4>
-                            <span>Member</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/mahantesh.webp" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Mahentesh Chikkadesai</h4>
-                            <span>Member</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/pramod.webp" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Pramod BN</h4>
-                            <span>Member</span>
                         </div>
                     </div>
                 </div>
@@ -225,8 +171,66 @@ $active = 'execom';
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>Dr. Sumit Soman</h4>
-                            <span>Member</span>
+                            <h4>Sumit Soman</h4>
+                            <span>Professional Activities Coordinatior</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Santosh Anand</h4>
+                            <span>Sub Section Coordinatior</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section-title">
+                <h2>Execom Members</h2>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Akshay S</h4>
+                            <!-- <span>Member</span> -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                    <div class="member">
+                        <div class="member-img">
+                            <img src="assets/img/team/nagalekha.webp" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Nagalekha Ramesh</h4>
+                            <!-- <span>Member</span> -->
                         </div>
                     </div>
                 </div>
@@ -244,7 +248,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Yeshwanth L M</h4>
-                            <span>Member</span>
+                            <!-- <span>Member</span> -->
                         </div>
                     </div>
                 </div>
@@ -262,7 +266,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Dr Mohan Krishna S</h4>
-                            <span>Member</span>
+                            <!-- <span>Member</span> -->
                         </div>
                     </div>
                 </div>
@@ -279,7 +283,7 @@ $active = 'execom';
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>Dr Likith Kumar M V</h4>
+                            <h4>Dr Srikanth Itapu</h4>
                             <span>Member</span>
                         </div>
                     </div>
@@ -297,10 +301,14 @@ $active = 'execom';
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>Manjunath Veerayya Kalmath</h4>
+                            <h4>Asif Ali Ahmed R</h4>
                             <span>Member</span>
                         </div>
                     </div>
+                </div>
+
+                <div class="section-title">
+                <h2>Student Representatives</h2>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
@@ -315,8 +323,8 @@ $active = 'execom';
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>Dr Yashwanth N</h4>
-                            <span>Member</span>
+                            <h4>Adhithya B N</h4>
+                            <!-- <span>Member</span> -->
                         </div>
                     </div>
                 </div>
@@ -333,8 +341,8 @@ $active = 'execom';
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>Supreetha  M</h4>
-                            <span>Member</span>
+                            <h4>Peerzada Anzar Azmat</h4>
+                            <!-- <span>Member</span> -->
                         </div>
                     </div>
                 </div>
@@ -351,7 +359,7 @@ $active = 'execom';
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>Skanda Prasad</h4>
+                            <h4>Shiva Shashank</h4>
                             <span>Member</span>
                         </div>
                     </div>

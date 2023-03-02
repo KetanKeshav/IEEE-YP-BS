@@ -9,10 +9,10 @@
           <?php include 'include/navbar.php'; ?>
 
           <div class="header-social-links d-flex align-items-center">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+              <a href="https://twitter.com/ieeebangaloreyp" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="https://www.facebook.com/people/IEEE-Young-Professionals-Bangalore/100072598923623/" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="https://www.instagram.com/ieeebangaloreyp/?hl=en" class="instagram" target="_blank"><i class="bi bi-instagram"></i></a>
+              <a href="https://in.linkedin.com/in/ieeebangaloreyp" class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></i></a>
           </div>
 
       </div>
