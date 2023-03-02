@@ -292,7 +292,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/manjunath.webp" class="img-fluid" alt="">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -314,7 +314,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/yashwanth.webp" class="img-fluid" alt="">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -350,7 +350,7 @@ $active = 'execom';
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="member">
                         <div class="member-img">
-                            <img src="assets/img/team/skanda.webp" class="img-fluid" alt="">
+                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-twitter"></i></a>
                                 <a href=""><i class="bi bi-facebook"></i></a>
