@@ -1,7 +1,7 @@
 <nav id="navbar" class="navbar order-last sticky-top order-lg-0">
     <ul>
         <li><a class="nav-link scrollto <?php if ($active == "home" ) echo "active"?>" href="index.php">Home</a></li>
-        <li class="dropdown"><a href="#"><span>Events</span> <i class="bi bi-chevron-down"></i></a>
+        <li class="dropdown"><a href="events.php"><span>Events</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
                 <li><a href="ieee-ypsic.php" class="nav-link<?php if ($active == "ieee-ypsic" ) echo "active"?>">IEEE YPSIC</a></li>
                 <li><a href="ieee-b-htc-2020.php" class="nav-link<?php if ($active == "ieee-b-htc-2020" ) echo "active"?>">IEEE B-HTC 2020</a></li>
