@@ -47,7 +47,7 @@ $active = 'past-execom';
         <div class="container">
 
             <div class="section-title">
-                <h2>Execom</h2>
+                <h2>2022 Execom</h2>
             </div>
 
             <div class="row">
