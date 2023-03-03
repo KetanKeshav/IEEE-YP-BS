@@ -1,5 +1,5 @@
 <?php
-$active = 'execom';
+$active = 'events';
 ?>
 <!DOCTYPE html>
 <html lang="en">
