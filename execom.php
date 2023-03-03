@@ -100,7 +100,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Gajendra Deshpande</h4>
-                            <span>Vice Chair-1</span>
+                            <span>Vice Chair</span>
                         </div>
                     </div>
                 </div>
@@ -118,7 +118,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Ketan Keshav</h4>
-                            <span>Vice Chair - 2</span>
+                            <span>Vice Chair</span>
                         </div>
                     </div>
                 </div>
@@ -212,7 +212,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Akshay S</h4>
-                            <!-- <span>Member</span> -->
+                            <span>Amrita Vishwa Vidyapeetham</span>
                         </div>
                     </div>
                 </div>
@@ -230,7 +230,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Nagalekha Ramesh</h4>
-                            <!-- <span>Member</span> -->
+                            <span>Gupshup</span>
                         </div>
                     </div>
                 </div>
@@ -248,7 +248,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Yeshwanth L M</h4>
-                            <!-- <span>Member</span> -->
+                            <span>DXC Technology</span>
                         </div>
                     </div>
                 </div>
@@ -266,7 +266,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Dr Mohan Krishna S</h4>
-                            <!-- <span>Member</span> -->
+                            <span>Alliance University</span>
                         </div>
                     </div>
                 </div>
@@ -284,7 +284,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Dr Srikanth Itapu</h4>
-                            <span>Member</span>
+                            <span>Alliance University, Bengaluru</span>
                         </div>
                     </div>
                 </div>
@@ -302,7 +302,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Asif Ali Ahmed R</h4>
-                            <span>Member</span>
+                            <span>MoneyView</span>
                         </div>
                     </div>
                 </div>
@@ -360,25 +360,7 @@ $active = 'execom';
                         </div>
                         <div class="member-info">
                             <h4>Shiva Shashank</h4>
-                            <span>Member</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                    <div class="member">
-                        <div class="member-img">
-                            <img src="assets/img/team/dummy.png" class="img-fluid" alt="">
-                            <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="member-info">
-                            <h4>Sanchith B Anand</h4>
-                            <span>Member</span>
+                            <!-- <span>Member</span> -->
                         </div>
                     </div>
                 </div>
